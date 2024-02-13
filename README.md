@@ -43,6 +43,6 @@ Here, the flags govern the following training properties:
 
 When the analysis finishes, the results are saved in the form of a `csv` file in a subfolder in the experiments folder.
 
-## Hyperparameter
+## Hyperparameters
 
 See Appendix E of the paper for the hyperparameters of the experiments presented in the main paper.
